@@ -2,7 +2,7 @@
 
 # Authors: António Pinto , Davide Farinati, Mohamed Elbawab, Tomás de Sá
 
-Grade = 18,33 \n
+Grade = 18,33 /n
 Best project in the course
 
 Average | Median | Q75   |
