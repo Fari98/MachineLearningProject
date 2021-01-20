@@ -5,8 +5,8 @@
 Grade = 18,33
 Best project in the course
 
-Average | Median | Q75 |
-------------------------
+Average | Median | Q75   |
+--------|--------|-------|
 14.8    | 15.05  | 16.57 |
 
 # Context 
