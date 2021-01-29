@@ -2,7 +2,7 @@
 
 # Authors: António Pinto , Davide Farinati, Mohamed Elbawab, Tomás de Sá
 
-Grade = 18,33 
+Grade = 18,33/20 
 
 Average | Median | Q75   |
 --------|--------|-------|
